@@ -16,3 +16,5 @@ This is a streamlit application. To run this code,
 5. Streamlit web app will open in your loclhost and ask to select options like 'Object Detection', 'Pose Analysis' etc. It accepts images and videos in mp4 format.
 6. The files you provide as input should be in same directory as app.py, detect_objects.py etc.
 
+The web app is already deployed in huggingface personal space and can be accessed via,
+https://huggingface.co/spaces/manikandan18ramalingam/computer-vision-problems
